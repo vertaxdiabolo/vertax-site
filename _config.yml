@@ -8,3 +8,5 @@ url: ""
 
 sass:
   sass_dir: assets/css/scss
+
+analytics: UA-131441455-1
