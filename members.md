@@ -5,23 +5,21 @@ title: Members
 
 ## MEMBERS
 
-- Sabrina Chen*
-- Momin Haider*
+- Momin Haider
+- Victor Lin
+- Zach Luz
+- Arjun Tamrakar
 - Andy Ho
+- Sabrina Chen
+- Srajat Rastogi
 - Brian Koehler
 - Cindy Lin
-- Victor Lin*
-- Zach Luz
-- Prakash Pudhucode
-- Srajat Rastogi
-- Arjun Tamrakar
-
-\* captain
 
 ## FORMER MEMBERS
 
 - Kevin Chang
 - Huy Tran
+- Prakash Pudhucode
 
 
 <style>
