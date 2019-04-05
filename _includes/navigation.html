@@ -4,19 +4,19 @@
     <h2 id="dpg">DIABOLO PERFORMANCE GROUP</h2>
   </a>
   {% if page.url != "/members/" %}
-      <h3 class="nav-link"><a href="{{ "/" | relative_url  }}members">MEMBERS</a></h3>
+      <h3 class="nav-link"><a href="{{ "/" | relative_url  }}members/">MEMBERS</a></h3>
   {% else %}
       <h3 class="nav-link current">MEMBERS</h3>
   {% endif %}
 
   {% if page.url != "/youtube/" %}
-      <h3 class="nav-link"><a href="{{ "/" | relative_url  }}youtube"><i class="fab fa-youtube" aria-hidden="true"></i></a></h3>
+      <h3 class="nav-link"><a href="{{ "/" | relative_url  }}youtube/"><i class="fab fa-youtube" aria-hidden="true"></i></a></h3>
   {% else %}
       <h3 class="nav-link current"><i class="fab fa-youtube" aria-hidden="true"></i></h3>
   {% endif %}
 
   {% if page.url != "/contact/" %}
-      <h3 class="nav-link"><a href="{{ "/" | relative_url  }}contact">CONTACT</a></h3>
+      <h3 class="nav-link"><a href="{{ "/" | relative_url  }}contact/">CONTACT</a></h3>
   {% else %}
       <h3 class="nav-link current">CONTACT</h3>
   {% endif %}
