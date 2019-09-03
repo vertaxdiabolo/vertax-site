@@ -6,20 +6,23 @@ title: Members
 ## MEMBERS
 
 - Momin Haider
-- Victor Lin
-- Zach Luz
-- Arjun Tamrakar
 - Andy Ho
 - Sabrina Chen
 - Srajat Rastogi
 - Brian Koehler
 - Cindy Lin
+- Jessica Hong
+- Mickey Davis
+- Lohith Srikakolapu
 
 ## FORMER MEMBERS
 
 - Kevin Chang
 - Huy Tran
 - Prakash Pudhucode
+- Victor Lin
+- Zach Luz
+- Arjun Tamrakar
 
 
 <style>
