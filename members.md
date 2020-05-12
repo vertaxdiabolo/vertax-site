@@ -5,7 +5,6 @@ title: Members
 
 ## MEMBERS
 
-- Momin Haider
 - Andy Ho
 - Sabrina Chen
 - Srajat Rastogi
@@ -23,6 +22,7 @@ title: Members
 - Victor Lin
 - Zach Luz
 - Arjun Tamrakar
+- Momin Haider
 
 
 <style>
