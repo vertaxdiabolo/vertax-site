@@ -3,18 +3,18 @@ layout: main
 title: Members
 ---
 
-## MEMBERS
+## ACTIVE MEMBERS
 
-- Andy Ho
-- Sabrina Chen
-- Srajat Rastogi
-- Brian Koehler
-- Cindy Lin
-- Jessica Hong
-- Mickey Davis
-- Lohith Srikakolapu
+- Andy Ho - graduate
+- Sabrina Chen - 4th
+- Srajat Rastogi - 4th
+- Brian Koehler - 3rd
+- Cindy Lin - 3rd
+- Jessica Hong - graduate
+- Mickey Davis - 3rd
+- Lohith Srikakolapu - 2nd
 
-## FORMER MEMBERS
+## ALUMNI
 
 - Kevin Chang
 - Huy Tran
